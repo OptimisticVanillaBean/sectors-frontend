@@ -38,4 +38,4 @@ Make sure that the sectors-backend service is running and is available on port 8
 npm run dev
 ```
 
-This command starts the development server. You should be able to see your application by opening `http://localhost:5173` (or the URL provided in the terminal) in your web browser.
+This command starts the development server. You should be able to see your application by opening `http://localhost:5173`in your web browser.
