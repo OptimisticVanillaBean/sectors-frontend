@@ -4,7 +4,7 @@ This project is a web application built with React and TypeScript. It allows use
 
 ## Prerequisites
 
-- Node.js and npm installed on your machine. You can download Node.js and npm from [here](https://nodejs.org/en/download/).
+- Node 20+ and npm installed on your machine. You can download Node.js and npm from [here](https://nodejs.org/en/download/).
 
 ## Steps
 
